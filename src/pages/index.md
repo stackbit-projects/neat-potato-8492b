@@ -1,5 +1,5 @@
 ---
-title: Fuck What You Tha
+title: 'Fuck What You Thaught it was '
 sections:
   - type: hero_section
     title: This Is A Big Hero Headline
